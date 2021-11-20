@@ -4,5 +4,5 @@ web/core/*
 web/core
 web/module/contrib
 web/module/contrib/*
-sites/default/files
-sites/default/files/*
+web/sites/default/files/*
+web/sites/default/files
