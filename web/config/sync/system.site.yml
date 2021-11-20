@@ -1,0 +1,14 @@
+uuid: 32926e68-44a5-44f7-b1f6-431025eb086c
+name: Drupal
+mail: mariolinguito@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

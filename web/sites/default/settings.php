@@ -803,13 +803,13 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'drupal9',
-  'username' => 'drupal9',
-  'password' => 'drupal9',
+  'database' => 'drupal_jenkins',
+  'username' => 'root',
+  'password' => '',
   'prefix' => '',
-  'host' => 'database',
+  'host' => 'localhost',
   'port' => '3306',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
 );
-$settings['config_sync_directory'] = 'sites/default/files/config_keA4mhMLtgggcwHYKHERFc0h2reXdqj4wR-BOy-WW1Z4JtgEU2b3yfYAu1otoRBW3YyllYYvzg/sync';
+$settings['config_sync_directory'] = 'config/sync';
