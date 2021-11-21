@@ -1,1 +1,1 @@
-jsonapi
+jsonapi rest
