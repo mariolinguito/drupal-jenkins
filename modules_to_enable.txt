@@ -1,1 +1,1 @@
-jsonapi rest
+statistics
