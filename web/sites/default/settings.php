@@ -803,11 +803,11 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'drupal_jenkins',
-  'username' => 'root',
-  'password' => '',
+  'database' => 'drupal9',
+  'username' => 'drupal9',
+  'password' => 'drupal9',
   'prefix' => '',
-  'host' => 'localhost',
+  'host' => 'database',
   'port' => '3306',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
