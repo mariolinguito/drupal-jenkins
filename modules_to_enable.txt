@@ -1,1 +1,1 @@
-pathauto
+jsonapi rest
